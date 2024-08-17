@@ -1,8 +1,9 @@
 .leaderboard-container {
-  padding: 20px;
+  padding: 0px;
   text-align: center;
   font-family: 'Arial', sans-serif;
   max-width: 600px;
+  width: 95vw;
   margin: 0 auto;
 }
 
@@ -112,10 +113,10 @@
     font-size: 20px; 
     padding: 10px 20px; 
   }
-
+  
   .leaderboard-table th,
   .leaderboard-table td {
-    font-size: 12px;
+    font-size: 16px;
     padding: 6px;
   }
 }
