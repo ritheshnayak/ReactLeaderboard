@@ -42,7 +42,7 @@ const Webleaderboard = () => {
 
   return (
     <div className="leaderboard-container">
-      <h2>DSA Leaderboard</h2>
+      <h2>WEB Leaderboard</h2>
       <table className="leaderboard-table">
         <thead>
           <tr>
